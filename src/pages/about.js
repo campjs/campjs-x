@@ -179,7 +179,7 @@ const AboutPage = () => {
                   It is an hours{' '}
                   <a
                     className="anchor"
-                    title="Directions - Transport NSW"
+                    title="Directions - Google Maps"
                     href="https://www.google.com/maps/dir/Sydney+Airport+(SYD),+Sydney+NSW/-33.546003,151.2274676/@-33.7340049,151.0065848,11z/data=!3m1!4b1!4m12!4m11!1m5!1m1!1s0x6b12b0f11b3383db:0xafdf355d5a4b6577!2m2!1d151.1752764!2d-33.9399228!1m0!2m3!6e1!7e2!8j1567184100"
                   >
                     drive
